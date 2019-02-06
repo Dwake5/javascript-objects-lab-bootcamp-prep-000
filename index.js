@@ -1,1 +1,1 @@
-let objects = {recipe}
+let recipe = {}
